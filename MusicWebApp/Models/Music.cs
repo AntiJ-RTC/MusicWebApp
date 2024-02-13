@@ -6,6 +6,6 @@
         public string Album { get; set; }
         public string Artist { get; set; }
         public string Publisher { get; set; }
-        public float Price { get; set; }
+        public string Genre { get; set; }
     }
 }
